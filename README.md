@@ -1,3 +1,2 @@
 # Quant Investing Project
-Hi! I'm Aditya Dhanotia 
-jedenjwn
+Click the link to get the dataset: 
