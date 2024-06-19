@@ -3,8 +3,6 @@
 ## Overview
 This project focuses on the development and evaluation of a stock portfolio strategy utilizing both traditional financial analysis and advanced machine learning techniques. Our objective was to create a robust investment approach that minimizes risk and maximizes potential returns by identifying 100 undervalued stocks to invest in from a universe of securities and use Machine Learning to re-balance the portfolio weights each month for optimal portfolio returns. The project is inspired by the long-investing value style approach highlighted by AQR Capital Management and Alpha Architect. 
 
-## Methodology
-
 ### Data Source
 The securities data used in this project is sourced from the CRSP and COMPUSTAT monthly stocks dataset, which can be accessed and downloaded from [Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/).
 
